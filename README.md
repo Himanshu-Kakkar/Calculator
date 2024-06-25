@@ -1,1 +1,3 @@
 # Calculator
+Create a basic and simple calculator using HTML & CSS.
+learnt many things with this project as creating BUTTONS, taking INPUTS etc...
